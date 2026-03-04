@@ -16,8 +16,8 @@ I’m passionate about turning data into meaningful insights and building effici
 - Exploring open-source contributions
 
 ## 📫 Connect with Me
-- [LinkedIn](#)  
-- [GitHub](#)
+- LinkedIn : https://www.linkedin.com/in/kartikparsodkar 
+- Gmail : kartikparsodkar@gmail.com
 
 ---
 *"Code, analyze, and innovate — that’s my mantra."*
